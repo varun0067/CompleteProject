@@ -1,0 +1,272 @@
+INFO  02:07:52 Application started. Press Ctrl+C to shut down.
+INFO  02:07:52 Hosting environment: Development
+INFO  02:07:52 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  02:08:26 Getting education loan details of R-738
+INFO  02:08:26 Returning education loan details of R-738
+INFO  02:08:26 Getting personal loan details of R-738
+INFO  02:08:26 Returning pernonal loan details of R-738
+INFO  02:33:55 Application started. Press Ctrl+C to shut down.
+INFO  02:33:55 Hosting environment: Development
+INFO  02:33:55 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  03:37:02 Application started. Press Ctrl+C to shut down.
+INFO  03:37:02 Hosting environment: Development
+INFO  03:37:02 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  08:21:00 Application started. Press Ctrl+C to shut down.
+INFO  08:21:00 Hosting environment: Development
+INFO  08:21:00 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  09:45:47 Application started. Press Ctrl+C to shut down.
+INFO  09:45:47 Hosting environment: Development
+INFO  09:45:47 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  09:46:40 Getting personal loan details of R-738
+INFO  09:46:40 Returning pernonal loan details of R-738
+INFO  09:46:40 Getting education loan details of R-738
+INFO  09:46:40 Returning education loan details of R-738
+INFO  09:50:38 Getting education loan details of R-759
+INFO  09:50:38 Getting personal loan details of R-759
+INFO  09:50:38 Returning pernonal loan details of R-759
+INFO  09:50:38 Returning education loan details of R-759
+INFO  09:50:52 Getting personal loan details of R-865
+INFO  09:50:52 Returning pernonal loan details of R-865
+INFO  09:50:52 Getting education loan details of R-865
+INFO  09:50:52 Returning education loan details of R-865
+INFO  09:51:52 Adding Personal loan details 
+INFO  09:51:52 Personal Loan details added.
+INFO  09:52:02 Getting education loan details of R-865
+INFO  09:52:02 Returning education loan details of R-865
+INFO  09:52:02 Getting personal loan details of R-865
+INFO  09:52:02 Returning pernonal loan details of R-865
+INFO  09:56:03 Application started. Press Ctrl+C to shut down.
+INFO  09:56:03 Hosting environment: Development
+INFO  09:56:03 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  09:56:43 Getting personal loan details of R-738
+INFO  09:56:43 Getting education loan details of R-738
+INFO  09:56:43 Returning pernonal loan details of R-738
+INFO  09:56:43 Returning education loan details of R-738
+INFO  10:32:27 Application started. Press Ctrl+C to shut down.
+INFO  10:32:27 Hosting environment: Development
+INFO  10:32:27 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  10:33:31 Adding Personal loan details 
+INFO  10:33:35 Personal Loan details added.
+INFO  10:34:14 Getting personal loan details of R-407
+INFO  10:34:14 Returning pernonal loan details of R-407
+INFO  10:34:14 Getting education loan details of R-407
+INFO  10:34:14 Returning education loan details of R-407
+INFO  10:39:54 Getting education loan details of R-407
+INFO  10:39:54 Returning education loan details of R-407
+INFO  10:39:54 Getting personal loan details of R-407
+INFO  10:39:54 Returning pernonal loan details of R-407
+INFO  11:07:09 Application started. Press Ctrl+C to shut down.
+INFO  11:07:09 Hosting environment: Development
+INFO  11:07:09 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  11:08:32 Getting education loan details of R-113
+INFO  11:08:32 Returning education loan details of R-113
+INFO  10:59:22 Application started. Press Ctrl+C to shut down.
+INFO  10:59:22 Hosting environment: Development
+INFO  10:59:22 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  11:00:57 Getting education loan details of R-738
+INFO  11:00:57 Getting personal loan details of R-738
+INFO  11:00:57 Returning education loan details of R-738
+INFO  11:00:57 Returning pernonal loan details of R-738
+INFO  05:53:07 Application started. Press Ctrl+C to shut down.
+INFO  05:53:07 Hosting environment: Development
+INFO  05:53:07 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  06:03:28 Adding Personal loan details 
+INFO  06:03:31 Personal Loan details added.
+INFO  06:06:14 Adding Personal loan details 
+INFO  06:06:14 Personal Loan details added.
+INFO  06:06:17 Getting personal loan details of R-650
+INFO  06:06:17 Getting education loan details of R-650
+INFO  06:06:17 Returning pernonal loan details of R-650
+INFO  06:06:17 Returning education loan details of R-650
+INFO  06:11:33 Adding Education loan details 
+INFO  06:11:33 Eduaction Loan details added.
+INFO  06:11:35 Getting education loan details of R-650
+INFO  06:11:35 Returning education loan details of R-650
+INFO  06:11:35 Getting personal loan details of R-650
+INFO  06:11:35 Returning pernonal loan details of R-650
+INFO  06:11:52 Adding Personal loan details 
+INFO  06:11:52 Personal Loan details added.
+INFO  06:11:55 Getting education loan details of R-650
+INFO  06:11:55 Returning education loan details of R-650
+INFO  06:11:55 Getting personal loan details of R-650
+INFO  06:11:55 Returning pernonal loan details of R-650
+INFO  06:42:54 Adding Education loan details 
+INFO  06:42:54 Eduaction Loan details added.
+INFO  06:42:56 Getting education loan details of R-147
+INFO  06:42:56 Returning education loan details of R-147
+INFO  06:42:57 Getting personal loan details of R-147
+INFO  06:42:57 Returning pernonal loan details of R-147
+INFO  06:43:14 Adding Personal loan details 
+INFO  06:43:14 Personal Loan details added.
+INFO  06:43:16 Getting personal loan details of R-147
+INFO  06:43:16 Returning pernonal loan details of R-147
+INFO  06:43:16 Getting education loan details of R-147
+INFO  06:43:16 Returning education loan details of R-147
+INFO  06:58:38 Adding Education loan details 
+INFO  06:58:38 Eduaction Loan details added.
+INFO  06:58:40 Getting personal loan details of R-186
+INFO  06:58:40 Returning pernonal loan details of R-186
+INFO  06:58:40 Getting education loan details of R-186
+INFO  06:58:40 Returning education loan details of R-186
+INFO  06:59:01 Adding Personal loan details 
+INFO  06:59:01 Personal Loan details added.
+INFO  06:59:03 Getting education loan details of R-186
+INFO  06:59:03 Returning education loan details of R-186
+INFO  06:59:03 Getting personal loan details of R-186
+INFO  06:59:03 Returning pernonal loan details of R-186
+INFO  08:02:21 Application started. Press Ctrl+C to shut down.
+INFO  08:02:21 Hosting environment: Development
+INFO  08:02:21 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  08:09:36 Adding Education loan details 
+INFO  08:09:38 Eduaction Loan details added.
+INFO  08:09:51 Adding Personal loan details 
+INFO  08:09:52 Personal Loan details added.
+INFO  08:09:54 Getting personal loan details of R-495
+INFO  08:09:54 Getting education loan details of R-495
+INFO  08:09:54 Returning education loan details of R-495
+INFO  08:09:54 Returning pernonal loan details of R-495
+INFO  08:13:04 Adding Education loan details 
+INFO  08:13:04 Eduaction Loan details added.
+INFO  08:13:06 Getting education loan details of R-628
+INFO  08:13:06 Getting personal loan details of R-628
+INFO  08:13:06 Returning pernonal loan details of R-628
+INFO  08:13:06 Returning education loan details of R-628
+INFO  08:13:25 Adding Personal loan details 
+INFO  08:13:25 Personal Loan details added.
+INFO  08:13:27 Getting education loan details of R-628
+INFO  08:13:27 Returning education loan details of R-628
+INFO  08:13:27 Getting personal loan details of R-628
+INFO  08:13:27 Returning pernonal loan details of R-628
+INFO  09:24:11 Application started. Press Ctrl+C to shut down.
+INFO  09:24:11 Hosting environment: Development
+INFO  09:24:11 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  09:24:44 Application started. Press Ctrl+C to shut down.
+INFO  09:24:44 Hosting environment: Development
+INFO  09:24:44 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  09:26:40 Application started. Press Ctrl+C to shut down.
+INFO  09:26:40 Hosting environment: Development
+INFO  09:26:40 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  07:10:31 Application started. Press Ctrl+C to shut down.
+INFO  07:10:31 Hosting environment: Development
+INFO  07:10:31 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  07:11:34 Adding Education loan details 
+INFO  07:11:36 Eduaction Loan details added.
+INFO  07:11:51 Adding Personal loan details 
+INFO  07:11:51 Personal Loan details added.
+INFO  07:11:53 Getting personal loan details of R-355
+INFO  07:11:53 Getting education loan details of R-355
+INFO  07:11:53 Returning pernonal loan details of R-355
+INFO  07:11:53 Returning education loan details of R-355
+INFO  07:19:59 Adding Education loan details 
+INFO  07:19:59 Eduaction Loan details added.
+INFO  07:20:01 Getting personal loan details of R-147
+INFO  07:20:01 Getting education loan details of R-147
+INFO  07:20:01 Returning education loan details of R-147
+INFO  07:20:01 Returning pernonal loan details of R-147
+INFO  07:20:20 Adding Personal loan details 
+INFO  07:20:20 Personal Loan details added.
+INFO  07:20:22 Getting personal loan details of R-147
+INFO  07:20:22 Getting education loan details of R-147
+INFO  07:20:22 Returning pernonal loan details of R-147
+INFO  07:20:22 Returning education loan details of R-147
+INFO  09:05:36 Application started. Press Ctrl+C to shut down.
+INFO  09:05:36 Hosting environment: Development
+INFO  09:05:36 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  09:07:25 Getting education loan details of R-869
+INFO  09:07:25 Returning education loan details of R-869
+INFO  09:07:25 Getting personal loan details of R-869
+INFO  09:07:25 Returning pernonal loan details of R-869
+INFO  09:08:24 Adding Personal loan details 
+INFO  09:08:25 Personal Loan details added.
+INFO  09:08:27 Getting education loan details of R-869
+INFO  09:08:27 Returning education loan details of R-869
+INFO  09:08:27 Getting personal loan details of R-869
+INFO  09:08:27 Returning pernonal loan details of R-869
+INFO  09:09:30 Getting education loan details of R-869
+INFO  09:09:30 Returning education loan details of R-869
+INFO  09:09:30 Getting personal loan details of R-869
+INFO  09:09:30 Returning pernonal loan details of R-869
+INFO  09:10:54 Getting education loan details of R-869
+INFO  09:10:54 Getting personal loan details of R-869
+INFO  09:10:54 Returning education loan details of R-869
+INFO  09:10:54 Returning pernonal loan details of R-869
+INFO  09:13:12 Adding Education loan details 
+INFO  09:13:12 Eduaction Loan details added.
+INFO  09:13:14 Getting personal loan details of R-441
+INFO  09:13:14 Getting education loan details of R-441
+INFO  09:13:14 Returning pernonal loan details of R-441
+INFO  09:13:14 Returning education loan details of R-441
+INFO  09:13:33 Adding Personal loan details 
+INFO  09:13:33 Personal Loan details added.
+INFO  09:13:36 Getting personal loan details of R-441
+INFO  09:13:36 Returning pernonal loan details of R-441
+INFO  09:13:36 Getting education loan details of R-441
+INFO  09:13:36 Returning education loan details of R-441
+INFO  09:38:54 Application started. Press Ctrl+C to shut down.
+INFO  09:38:54 Hosting environment: Development
+INFO  09:38:54 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  10:41:59 Application started. Press Ctrl+C to shut down.
+INFO  10:41:59 Hosting environment: Development
+INFO  10:41:59 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  10:43:30 Adding Education loan details 
+INFO  10:43:34 Eduaction Loan details added.
+INFO  10:43:49 Adding Personal loan details 
+INFO  10:43:49 Personal Loan details added.
+INFO  10:43:51 Getting education loan details of R-123
+INFO  10:43:51 Getting personal loan details of R-123
+INFO  10:43:51 Returning pernonal loan details of R-123
+INFO  10:43:51 Returning education loan details of R-123
+INFO  10:46:24 Adding Education loan details 
+INFO  10:46:24 Eduaction Loan details added.
+INFO  10:46:26 Getting personal loan details of R-318
+INFO  10:46:26 Returning pernonal loan details of R-318
+INFO  10:46:26 Getting education loan details of R-318
+INFO  10:46:26 Returning education loan details of R-318
+INFO  10:46:45 Adding Personal loan details 
+INFO  10:46:45 Personal Loan details added.
+INFO  10:46:47 Getting education loan details of R-318
+INFO  10:46:47 Getting personal loan details of R-318
+INFO  10:46:47 Returning pernonal loan details of R-318
+INFO  10:46:47 Returning education loan details of R-318
+INFO  11:20:32 Adding Education loan details 
+INFO  11:20:32 Eduaction Loan details added.
+INFO  11:20:34 Getting education loan details of R-752
+INFO  11:20:34 Getting personal loan details of R-752
+INFO  11:20:34 Returning education loan details of R-752
+INFO  11:20:34 Returning pernonal loan details of R-752
+INFO  11:20:53 Adding Personal loan details 
+INFO  11:20:53 Personal Loan details added.
+INFO  11:20:55 Getting education loan details of R-752
+INFO  11:20:55 Returning education loan details of R-752
+INFO  11:20:55 Getting personal loan details of R-752
+INFO  11:20:55 Returning pernonal loan details of R-752
+INFO  12:08:06 Application started. Press Ctrl+C to shut down.
+INFO  12:08:06 Hosting environment: Development
+INFO  12:08:06 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  12:09:45 Adding Education loan details 
+INFO  12:09:47 Eduaction Loan details added.
+INFO  12:10:04 Adding Personal loan details 
+INFO  12:10:04 Personal Loan details added.
+INFO  12:10:06 Getting personal loan details of R-119
+INFO  12:10:06 Getting education loan details of R-119
+INFO  12:10:06 Returning pernonal loan details of R-119
+INFO  12:10:06 Returning education loan details of R-119
+INFO  12:11:42 Adding Education loan details 
+INFO  12:11:42 Eduaction Loan details added.
+INFO  12:11:44 Getting education loan details of R-139
+INFO  12:11:44 Getting personal loan details of R-139
+INFO  12:11:44 Returning education loan details of R-139
+INFO  12:11:44 Returning pernonal loan details of R-139
+INFO  12:12:07 Adding Personal loan details 
+INFO  12:12:07 Personal Loan details added.
+INFO  12:12:09 Getting personal loan details of R-139
+INFO  12:12:09 Getting education loan details of R-139
+INFO  12:12:09 Returning pernonal loan details of R-139
+INFO  12:12:09 Returning education loan details of R-139
+INFO  09:27:03 Application started. Press Ctrl+C to shut down.
+INFO  09:27:03 Hosting environment: Development
+INFO  09:27:03 Content root path: E:\cts training\zeeb\BMS-Microservices\LoanMS
+INFO  09:28:01 Getting education loan details of R-869
+INFO  09:28:01 Getting personal loan details of R-869
+INFO  09:28:01 Returning pernonal loan details of R-869
+INFO  09:28:01 Returning education loan details of R-869
